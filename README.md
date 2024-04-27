@@ -7,6 +7,6 @@
 <p align="center"><samp>Actualmente estoy cursando una <b>Licenciatura en Gestion de Tecnologias de la Informacion</b>(LGTI)<br>En la <a href="https://www.unpaz.edu.ar/">UNPAZ</a> y soy un maldito mono con computadora.<br>🐒+🎭+⌨ = Briel</p>
 
 ```py
-while(true):
-    me.drink("coffe without suggar")
+while True:
+    Me.drink("coffe without suggar")
 ```
