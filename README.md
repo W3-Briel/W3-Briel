@@ -4,7 +4,7 @@
 <h3 align="center">🙈❤🐒🙈❤🐒🙈❤🐒🙈❤🐒🙈❤🐒🙈❤🐒🙈❤🙈❤🙈❤</h3>
 <hr>
 
-<p align="center"><samp>Actualmente estoy cursando una <b>Licenciatura en Gestion de Tecnologias de la Informacion</b>(LGTI) y simultaneamente <b>Tecnicatura en comercio electronico</b><br>Ambas en la <a href="https://www.unpaz.edu.ar/">UNPAZ</a> y soy un maldito mono con computadora.<br>🐒+🎭+⌨ = Briel</p>
+<p align="center"><samp>Actualmente estoy cursando una <b>Licenciatura en Gestion de Tecnologias de la Informacion</b>(LGTI) y simultaneamente <b>Tecnicatura universitaria en comercio electronico</b>(TUCE)<br>Ambas en la <a href="https://www.unpaz.edu.ar/">UNPAZ</a> y soy un maldito mono con computadora.<br>🐒+🎭+⌨ = Briel</p>
 
 ```py
 while True:
