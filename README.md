@@ -10,3 +10,5 @@
 while True:
     Me.drink("coffe without suggar")
 ```
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=W3-Briel&show_icons=true)
