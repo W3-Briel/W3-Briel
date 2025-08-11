@@ -12,12 +12,6 @@ while True:
 ```
 ### <p align="center" style="color: #8A2BE2;">📊 GitHub Activity</p>
 
-<p align="center">
-  <a href="https://github.com/w3-briel">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=w3-briel&bg_color=161B22&color=BD93F9&line=BD93F9&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
-</p>
-
 <table>
     <tr>
        <td>
